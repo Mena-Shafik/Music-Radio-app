@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/songs"
+        android:title="Music"
+        android:icon="@drawable/baseline_library_music_24"
+        app:showAsAction="always"
+         />
+
+    <item android:id="@+id/radio"
+        android:title="Radio"
+        android:icon="@drawable/baseline_radio_24"
+        app:showAsAction="always"
+         />
+</menu>
